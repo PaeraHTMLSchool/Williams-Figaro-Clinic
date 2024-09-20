@@ -3,3 +3,8 @@ body{
   background: black;
   font-color: white;
 }
+
+header{
+  text-color: yellow;
+  text-decoration: underline;
+}
